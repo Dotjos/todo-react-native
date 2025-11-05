@@ -42,6 +42,7 @@ This app was developed as part of the **HNG Internship Program** frontend track.
 ## 💡 Project Structure
 ```
 
+```
 📦 todo-app
 ┣ 📂 app
 ┃ ┣ index.tsx # Home screen
@@ -55,6 +56,7 @@ This app was developed as part of the **HNG Internship Program** frontend track.
 ┣ 📜 App.tsx # Root entry
 ┣ 📜 package.json
 ┗ 📜 README.md
+```
 
 ````
 ## ⚙️ Installation & Setup
