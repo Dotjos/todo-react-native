@@ -3,7 +3,6 @@ import { Pressable, Text, StyleSheet, View } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
 import { Feather } from "@expo/vector-icons";
 import { useTheme } from "@/Theme/ThemeContext";
-import { Id } from "../convex/_generated/dataModel";
 
 interface Props {
   text: string;
